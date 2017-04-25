@@ -1,2 +1,2 @@
 # naive_db
-a naive database using B-Tree
+a naive key-value database using B-Tree
